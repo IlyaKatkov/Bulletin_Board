@@ -18,7 +18,7 @@
 Запуск проекта
 
 Склонируйте репозиторий:
-github.com
+https://github.com/IlyaKatkov/Bulletin_Board
 Для запуска проекта необходимо установить docker
 docker.com
 Установите зависимости:
@@ -26,7 +26,6 @@ pip install -r requirements.txt
 Создайте файл .env в корневой директории и заполните необходимые переменные окружения:
 SECRET_KEY=секретный_ключ
 
-DB_ENGINE=база_данных
 
 DB_NAME=название_базы_данных
 
